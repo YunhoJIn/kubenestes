@@ -1,4 +1,4 @@
-# kubenestes
+# kubernetes
  - https://yhjin.tistory.com/34
  - 쿠버네티스 실습 자료
  - 설치 및 runtime 이슈 정리
