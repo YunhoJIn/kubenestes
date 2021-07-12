@@ -7,3 +7,7 @@
  - https://yhjin.tistory.com/36
  - Web UI를 사용하기 위한 예제
  - admin_user.yaml : Token 생성하기 위한 admin 추가
+
+
+# ./StorageClass
+ - PV 생성을 위한 Storage 객체
